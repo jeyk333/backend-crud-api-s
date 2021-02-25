@@ -2,7 +2,7 @@
 
 ### Using Express
 
-Simple RESTful CRUD APIs to do CRUD operation in Nodejs using Express framework and MongoDB.
+RESTful CRUD APIs to do CRUD operation. It developed using Nodejs using Express framework and MongoDB. The apis are integrate with the frontend app, which developed using ReactJs. You can find the frontend app in the following link https://github.com/jeyk333/Fronend-React-CRUD-app.
 
 ## Prereqisite
 
